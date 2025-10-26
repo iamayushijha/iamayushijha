@@ -1,5 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+- 🔭 I'm currently working on **a MERN Stack Project**
+
+- 🌱 I'm currently learning **AWS & Cloud Services**
+
+- 👯 I'm looking to collaborate on **Open Source Project**
+
+- 💬 Ask me about **React, NodeJs, Php, Java Script, MySql, MongoDb**
+
+- 📫 How to reach me **ayushi.jha@**
+
+- 👨‍💻 All of my projects are available at **[https://ayushijha.netlify.app/](https://ayushijha.netlify.app/)**
+
+- 📄 Know about my experiences **[https://ayushijha.netlify.app/Resume.pdf](https://ayushijha.netlify.app/Resume.pdf)**
 
 
 ## 🌐 Socials:
