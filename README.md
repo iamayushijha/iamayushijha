@@ -1,4 +1,3 @@
-<div align="center" style="background: linear-gradient(270deg, #ff00cc, #3333ff); background-size: 600% 600%; animation: gradientBG 15s ease infinite; padding: 20px; border-radius: 15px;">
 
 
 # 💫 About Me:
@@ -38,13 +37,3 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-</div>
-
-<style>
-@keyframes gradientBG {
-    0% {background-position: 0% 50%;}
-    50% {background-position: 100% 50%;}
-    100% {background-position: 0% 50%;}
-}
-</style>
